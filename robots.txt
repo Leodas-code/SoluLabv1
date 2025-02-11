@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leodas-code.github.io/SoluLabv1/sitemap.xml
